@@ -1,0 +1,29 @@
+body{
+    background-color: #ccc;
+    font-size: 18px;
+    
+    
+}
+h1{
+    margin: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.subtitulo{
+    background-color: aqua;
+    margin: 30px;
+    padding: 20px;
+}
+
+.segundo{
+    background-color: #F5F5f5;
+    
+}
+.lista{
+    background-color: aquamarine;
+    margin: 30px;
+    padding: 20px;
+}
+a{
+    margin: 30px;
+}
